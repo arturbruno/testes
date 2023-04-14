@@ -1,0 +1,28 @@
+{
+    "dados": [
+      {
+        "nome": "Alice",
+        "idade": 25,
+        "salarios": [
+          {"ano": 2020, "valor": 3000},
+          {"ano": 2021, "valor": 3500}
+        ]
+      },
+      {
+        "nome": "Bob",
+        "idade": 30,
+        "salarios": [
+          {"ano": 2020, "valor": 4000},
+          {"ano": 2021, "valor": 4500}
+        ]
+      },
+      {
+        "nome": "Charlie",
+        "idade": 35,
+        "salarios": [
+          {"ano": 2020, "valor": 5000},
+          {"ano": 2021, "valor": 5500}
+        ]
+      }
+    ]
+}
